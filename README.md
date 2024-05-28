@@ -2,11 +2,17 @@
 
 ## introducion
 
-## iNCLUDES
+https://github.com/albertomozo/PHP-01-Introduccion
+
+## Formularios
+
+https://github.com/albertomozo/PHP-formularios
+
+## Includes
 https://github.com/albertomozo/PHP-includes
 
-## Resumen
-https://github.com/albertomozo/PHP_RESUMEN
+<!-- ## Resumen
+https://github.com/albertomozo/PHP_RESUMEN -->
 
 ## api
 
