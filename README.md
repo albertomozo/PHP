@@ -11,6 +11,22 @@ https://github.com/albertomozo/PHP-formularios
 ## Includes
 https://github.com/albertomozo/PHP-includes
 
+## Sesiones 
+
+https://github.com/albertomozo/PHP-sesiones
+
+## Cookies  
+
+https://github.com/albertomozo/PHP-cookies
+
+## BD mySQL (mysqli) 
+
+https://github.com/albertomozo/PHP-mySQL
+
+
+
+
+
 <!-- ## Resumen
 https://github.com/albertomozo/PHP_RESUMEN -->
 
